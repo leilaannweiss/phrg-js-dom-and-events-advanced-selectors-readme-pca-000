@@ -121,6 +121,9 @@ If you take a look at `js/selectors.js`, you'll notice we don't have a document 
 
 + Write a function `firstListItem` that does not accept any parameters. The function should use a first-child selector to return the first list item in the `ul` with the ID `pic-list`.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-advanced-selectors-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-advanced-selectors-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 + [MDN jQuery Selectors](https://api.jquery.com/category/selectors/)
